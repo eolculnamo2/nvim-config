@@ -2,6 +2,10 @@ local astro_plugins = {
   -- Plugin manager
   ["wbthomason/packer.nvim"] = {},
 
+  -- Color Scheme
+  ["rmehri01/onenord.nvim"] = {},
+  ["Mofiqul/vscode.nvim"] = {},
+
   -- Lua functions
   ["nvim-lua/plenary.nvim"] = { module = "plenary" },
 

@@ -6,6 +6,9 @@ local astro_plugins = {
   ["rmehri01/onenord.nvim"] = {},
   ["Mofiqul/vscode.nvim"] = {},
 
+  --test
+  ["vim-test/vim-test"] = {},
+
   -- Lua functions
   ["nvim-lua/plenary.nvim"] = { module = "plenary" },
 

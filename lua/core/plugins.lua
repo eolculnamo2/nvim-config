@@ -18,6 +18,12 @@ local astro_plugins = {
   -- Plugin Svelte
   ["leafOfTree/vim-svelte-plugin"] = {},
 
+  -- Plugin Terraform
+  ["hashivim/vim-terraform"] = {},
+  
+  -- Lightline
+  ["itchyny/lightline.vim"] = {},
+
   -- Flutter
   ["akinsho/flutter-tools.nvim"] = {
     requires = {{'nvim-lua/plenary.nvim'}},

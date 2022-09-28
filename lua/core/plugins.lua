@@ -6,6 +6,9 @@ local astro_plugins = {
   ["rmehri01/onenord.nvim"] = {},
   ["Mofiqul/vscode.nvim"] = {},
 
+  -- blamer (like gitlense)
+  ["APZelos/blamer.nvim"] = {},
+  
   --test
   ["vim-test/vim-test"] = {},
 

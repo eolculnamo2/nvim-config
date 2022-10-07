@@ -15,6 +15,9 @@ local astro_plugins = {
   -- Lua functions
   ["nvim-lua/plenary.nvim"] = { module = "plenary" },
 
+  -- Plugin kotlin
+  ["udalov/kotlin-vim"] = {},
+
   -- Plugin ReScript
   ["rescript-lang/vim-rescript"] = {},
 

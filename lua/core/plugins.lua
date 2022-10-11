@@ -36,6 +36,12 @@ local astro_plugins = {
   -- Dart
   ["dart-lang/dart-vim-plugin"] = {},
 
+  -- Diffview 
+  ["sindrets/diffview.nvim"] = {
+    requires = {{'nvim-lua/plenary.nvim'}},
+--    config = function() require("config.flutter").setup() end,
+  },
+
   -- Optimiser
   ["lewis6991/impatient.nvim"] = {},
 

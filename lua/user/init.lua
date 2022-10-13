@@ -1,5 +1,6 @@
 local config = {
-  colorscheme = "vscode",
+--   colorscheme = "vscode",
+  colorscheme = "onedark",
   header = {
     " █████  ███████ ███████ ████████ ██████   ██████",
     "██   ██ ██      ██         ██    ██   ██ ██    ██",

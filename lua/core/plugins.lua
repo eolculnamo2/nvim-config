@@ -5,7 +5,8 @@ local astro_plugins = {
   -- Color Scheme
   ["rmehri01/onenord.nvim"] = {},
   ["Mofiqul/vscode.nvim"] = {},
-
+  ["navarasu/onedark.nvim"] = {},
+  
   -- blamer (like gitlense)
   ["APZelos/blamer.nvim"] = {},
   

@@ -46,6 +46,10 @@ neotree.setup(astronvim.user_plugin_opts("plugins.neo-tree", {
         "node_modules",
         "__pycache__",
       },
+      hide_by_pattern = {
+        "**.bs.js",
+        "**.gen.tsx",
+      },
     },
     follow_current_file = true,
     hijack_netrw_behavior = "open_current",

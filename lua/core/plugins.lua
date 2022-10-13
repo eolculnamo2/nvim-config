@@ -37,6 +37,9 @@ local astro_plugins = {
 --    config = function() require("config.flutter").setup() end,
   },
 
+  -- Prettier
+  ["MunifTanjim/prettier.nvim"] = {},
+
   -- Dart
   ["dart-lang/dart-vim-plugin"] = {},
 

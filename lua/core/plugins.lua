@@ -13,6 +13,14 @@ local astro_plugins = {
   --test
   ["vim-test/vim-test"] = {},
 
+  -- pretty fold
+  ["anuvyklack/pretty-fold.nvim"] = {
+    config = function() require('pretty-fold').setup() end,
+  },
+
+  -- Vim Be Good
+  ["ThePrimeagen/vim-be-good"] = {},
+
   -- Lua functions
   ["nvim-lua/plenary.nvim"] = { module = "plenary" },
 

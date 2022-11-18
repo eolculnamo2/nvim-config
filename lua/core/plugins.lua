@@ -2,6 +2,9 @@ local astro_plugins = {
   -- Plugin manager
   ["wbthomason/packer.nvim"] = {},
 
+  -- Leap
+  ["ggandor/leap.nvim"] = {},
+
   -- Color Scheme
   ["rmehri01/onenord.nvim"] = {},
   ["Mofiqul/vscode.nvim"] = {},

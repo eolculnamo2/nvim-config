@@ -34,7 +34,11 @@ local astro_plugins = {
   ["rescript-lang/vim-rescript"] = {},
 
   -- Plugin Svelte
-  ["leafOfTree/vim-svelte-plugin"] = {},
+  -- ["leafOfTree/vim-svelte-plugin"] = {},
+  ["evanleck/vim-svelte"] = {},
+
+  -- JSON
+  ["elzr/vim-json"] = {},
 
   -- Plugin Terraform
   ["hashivim/vim-terraform"] = {},

@@ -1,7 +1,7 @@
 require('leap').add_default_mappings()
 local config = {
 --   colorscheme = "vscode",
-  colorscheme = "onedark",
+  -- colorscheme = "onedark",
   header = {
     " █████  ███████ ███████ ████████ ██████   ██████",
     "██   ██ ██      ██         ██    ██   ██ ██    ██",

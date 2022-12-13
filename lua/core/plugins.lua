@@ -64,6 +64,12 @@ local astro_plugins = {
 --    config = function() require("config.flutter").setup() end,
   },
 
+  -- Mind note taking
+  ["phaazon/mind.nvim"] = {
+    requires = {{'nvim-lua/plenary.nvim'}},
+   config = function() require("mind").setup() end,
+  },
+
   -- Optimiser
   ["lewis6991/impatient.nvim"] = {},
 

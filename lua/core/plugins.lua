@@ -16,6 +16,8 @@ local astro_plugins = {
   --test
   ["vim-test/vim-test"] = {},
 
+  ["deoplete-plugins/deoplete-clang"] = {},
+
   -- pretty fold
   ["anuvyklack/pretty-fold.nvim"] = {
     config = function() require('pretty-fold').setup() end,
